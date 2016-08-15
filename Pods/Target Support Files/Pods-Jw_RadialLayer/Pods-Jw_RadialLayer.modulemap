@@ -1,0 +1,6 @@
+framework module Pods_Jw_RadialLayer {
+  umbrella header "Pods-Jw_RadialLayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
